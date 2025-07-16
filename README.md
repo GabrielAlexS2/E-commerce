@@ -29,11 +29,13 @@ DripStore/
 
 ### Backend:
 - Node.js
-- Express.js *(presumido pelo uso de `.mjs`)*
-- dotenv *(variáveis de ambiente)*
+- Express.js
+- dotenv 
+- bcrypt
 
 ### Frontend:
 - React.js
+- BootsTrap
 - Vite
 - JavaScript moderno (ESModules)
 - CSS Modules
